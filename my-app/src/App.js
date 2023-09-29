@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-// Each component needs to be imported
 import FunctionalGreetingWithProps from './components/FunctionalGreetingWithProps';
 
 function App() {
